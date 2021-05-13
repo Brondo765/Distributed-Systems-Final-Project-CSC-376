@@ -1,4 +1,4 @@
-Final Project for CSC-376, program parses a JSON response received from caltech's exoplanet database.
+Final Project for CSC-376, program parses a JSON response received from NASA's exoplanet database.
 Data consists of planets' eccentricity, mass in jupiters, distance from the sun, etc.
 
 Data is stored using Google's Gson library in their custom data structures.
